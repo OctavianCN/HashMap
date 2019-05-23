@@ -307,7 +307,7 @@ ostream &operator << (ostream &out,const HashMap<K,V,F> &H)
     }
     return out;
 }
-// functie pentru a gnera o cheie de string uri
+
 struct IntKeyHash {
     unsigned long operator()(const int& k) const
     {
