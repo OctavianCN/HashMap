@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558622695 source:e:\teme\proiect poo3\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<algorithm>
+
